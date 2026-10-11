@@ -1,1 +1,1 @@
-# WindowsFormsApp1
+# Bu projede okul proje kısmıdır 
